@@ -1,0 +1,6 @@
+{
+  "name": "@lotsof/components-test",
+  "components": {
+    "folders": ["src/components/*"]
+  }
+}
